@@ -1,0 +1,5 @@
+{
+  "name": "ConnexPay 3DS Integration Hub",
+  "description": "A comprehensive developer portal for integrating ConnexPay 3D Secure flows, featuring an interactive simulator, PHP code generators, and architectural sequence diagrams.",
+  "requestFramePermissions": []
+}
